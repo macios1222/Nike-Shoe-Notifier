@@ -2,7 +2,5 @@ beautifulsoup4
 requests
 datetime
 json
-re
 pandas
-time
 twilio
