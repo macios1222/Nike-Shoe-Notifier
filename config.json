@@ -1,0 +1,9 @@
+{
+	"account_sid": "your twilio account sid",
+	"auth_token": "your twilio auth token",
+	"messaging_service_sid": "your twilio messaging service sid",
+	"phone_number": "phone number that will recieve messages",
+	"links": "put ';' before next link (link1;link2)",
+	"sizes": "put ';' before next size (size1;size2)"	
+
+}
